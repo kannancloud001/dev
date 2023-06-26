@@ -1,5 +1,5 @@
 version: 'latest'
-service:
+services:
   app:
     build:
       context: .
