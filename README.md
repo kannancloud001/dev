@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+                                           BUILDING DOCKER IMAGES
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot (581)](https://github.com/kannancloud001/dev/assets/129275611/d7c04870-36fd-424b-8423-81716096b07e)
+![Screenshot (582)](https://github.com/kannancloud001/dev/assets/129275611/8ee638e2-b4e5-4b57-a3fd-f6bf1c3ae26d)
 
-## Available Scripts
+![Screenshot (583)](https://github.com/kannancloud001/dev/assets/129275611/122c7947-671c-4840-9602-e89b1900d53c)
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+                                              LAUNCHING JENKINS AND LOGIN PAGE
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot (591)](https://github.com/kannancloud001/dev/assets/129275611/3d9e7841-dc5c-4256-afa6-bbe7108b57f0)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+                                              JENKINS FRONT PAGE
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Screenshot (597)](https://github.com/kannancloud001/dev/assets/129275611/ebf7867a-3710-473e-ab82-229be349db03)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+                                              JENKINS CONFIGURATION
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot (599)](https://github.com/kannancloud001/dev/assets/129275611/01dce115-60b2-4cc2-8c83-043024bacd85)
+![Screenshot (595)](https://github.com/kannancloud001/dev/assets/129275611/3aa42df0-f5e7-4f43-a72f-a5b5204f4e7d)
+![Screenshot (596)](https://github.com/kannancloud001/dev/assets/129275611/b8f295d0-e4f5-48c6-810f-2c83f6115328)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+                                              JENKINS CREDENTIALS FOR DOCKERHUB
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Screenshot (600)](https://github.com/kannancloud001/dev/assets/129275611/1eeb178e-a9b2-499c-8a97-50f47018fc38)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+                                                AUTOMATICALLY PUSHED TO DOCKER HUB
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Screenshot (594)](https://github.com/kannancloud001/dev/assets/129275611/b5ce61a0-17eb-4556-969d-57de17af9d14)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+                                                AWS CONSOLE FOR JENKINS AND DEPLOYING APPLICATION SERVER
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Screenshot (603)](https://github.com/kannancloud001/dev/assets/129275611/979329c4-f807-48c4-9d4f-31f6af013ca0)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+                                              INSTALL DOCKER AND PULLING THE PRIVATE REPO  
 
-### Deployment
+                                              BUT ITS NOT PULLING BECAUSE IT IS PRIVATE
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+![Screenshot (605)](https://github.com/kannancloud001/dev/assets/129275611/a573fc40-6d8c-426b-bc1b-f7d43970c51a)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+                                              DOCKER DOWNLOAD IMAGE FROM PUBLIC REPO
+
+![Screenshot (606)](https://github.com/kannancloud001/dev/assets/129275611/7ecb95bc-8a22-4fc3-9b1b-3304b34a0ab0)
+
+
+
+                                              APPLICATION RUNNING IN PORT 80
+
+![Screenshot (608)](https://github.com/kannancloud001/dev/assets/129275611/235abb93-eafd-4dff-bd5a-a1bdface8465) 
+
+![Screenshot (607)](https://github.com/kannancloud001/dev/assets/129275611/e509e470-da23-409f-a38e-25e6b87c7f7a)
+
+
+                                              DEPLOYED APPLICATION
+
+
+![Screenshot (609)](https://github.com/kannancloud001/dev/assets/129275611/4419e72c-e5ee-48a1-93c3-22a5ef2f95e7)
+
+
+                                              PROMETHEUS INSTALLING
+![Screenshot (572)](https://github.com/kannancloud001/dev/assets/129275611/975c78e0-2034-49f1-9438-3c414a9d14a2)
+
+
+
+                                              PROMETHEUS DASHBOARD
+
+![Screenshot (575)](https://github.com/kannancloud001/dev/assets/129275611/4e137a2e-de7e-4b4c-a6ec-a1f4eafd386b)
+
+![Screenshot (574)](https://github.com/kannancloud001/dev/assets/129275611/8786a9c4-5138-4f9d-8ef7-09ac547a2f15)
+
+
+                                              GRAFANA INSTALLING
+                                              
+![Screenshot (577)](https://github.com/kannancloud001/dev/assets/129275611/8137a21b-27c3-4940-8f70-ec090756e26c)
+
+
+                                              GRAFANA DASHBOARD
+
+    ![Screenshot (580)](https://github.com/kannancloud001/dev/assets/129275611/8799d29f-5c6d-43cc-9979-df79e15ea284)
