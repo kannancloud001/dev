@@ -91,4 +91,5 @@
 
                                               GRAFANA DASHBOARD
 
-    ![Screenshot (580)](https://github.com/kannancloud001/dev/assets/129275611/8799d29f-5c6d-43cc-9979-df79e15ea284)
+ ![Screenshot (580)](https://github.com/kannancloud001/dev/assets/129275611/4f70a54e-15c3-4752-acca-429db563cf67)
+
